@@ -1,0 +1,15 @@
+.banner {
+  background-color: #232424;
+background-image: url(http://www.transparenttextures.com/patterns/wall-4-light.png) !important;
+  height: 17rem;
+  margin: 0% !important;
+  padding: 0 !important;
+  color: rgb(255, 250, 250);
+  font-size: 18px;
+}
+
+@media (min-width: 576px) {
+  .banner {
+    font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  }
+}
