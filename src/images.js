@@ -8,8 +8,7 @@ import p7 from './images/p7.png';
 import p8 from './images/p8.png';
 import p9 from './images/p9.png';
 import p10 from './images/p10.png';
-import p11 from './images/p11.png';
-import p12 from './images/p12.png';
+
 
 const images = [
   p1,
@@ -22,8 +21,6 @@ const images = [
   p8,
   p9,
   p10,
-  p11,
-  p12
 ];
 
 export default images;
